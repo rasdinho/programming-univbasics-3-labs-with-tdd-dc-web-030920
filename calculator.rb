@@ -1,2 +1,2 @@
 first_number=0
-second_numbrt=1
+expect(second_number).not_to 
